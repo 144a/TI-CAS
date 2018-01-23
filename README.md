@@ -22,3 +22,6 @@ I(Poly)-------------Polynomial Indefinite Integration**
 
 **(cannot return ans)
 ***(will return quotient as ans)
+
+
+The text files allow for easy observation of the code with out the ti connect editor.
